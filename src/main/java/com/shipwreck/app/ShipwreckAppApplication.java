@@ -1,5 +1,7 @@
 package com.shipwreck.app;
 
+// Added to GitHub
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
